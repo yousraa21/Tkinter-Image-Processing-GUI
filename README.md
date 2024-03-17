@@ -15,9 +15,10 @@ Features
     Save Processed Images: Save processed images back to your local file system.
 
 Usage
-
-    Clone the repository to your local machine.
+    download Tkinter-designer file from  https://github.com/ParthJadhav/Tkinter-Designer
     Install the required dependencies using pip install -r requirements.txt.
-    Run the main.py script to launch the Tkinter GUI.
+    creat you figme design or copy mine (https://www.figma.com/file/0KHwce6QjKTFm0VsBI5fIy/Untitled?type=design&node-id=5%3A13&mode=design&t=2z2aQjSYNSx9FdI8-1)
+    Clone the repository to your local machine.
+    Run the gui.py script to launch the Tkinter GUI.
     Use the provided buttons to perform various image processing operations.
     
